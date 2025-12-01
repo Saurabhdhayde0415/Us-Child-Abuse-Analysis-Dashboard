@@ -1,7 +1,7 @@
 # Us-Child-Abuse-Analysis-Dashboard
 An interactive Power BI dashboard providing insights into child abuse perpetrator patterns across U.S. states. Features include parent roles, daycare providers, multiple-relationship cases, legal guidance, and state-by-state perpetrator counts. Contains KPIs, bar charts, donut charts, and funnel visuals created with Power BI, DAX, and Power Query.
 
-Project Overview
+📌 Project Overview
 
 This dashboard provides a detailed analysis of child abuse perpetrator statistics across U.S. states, helping stakeholders identify high-risk regions, parent categories, and associated perpetrator roles.
 The goal of this project is to transform raw data into meaningful insights that support informed decision-making, resource allocation, and preventive intervention planning.
@@ -18,9 +18,8 @@ Analyze year-over-year patterns and demographic distribution.
 
 Deliver a clear, interactive dashboard for data-driven storytelling.
 
-Dashboard Insights
-
-1️.Parent Perpetrators Overview
+📊 Dashboard Insights
+1️⃣ Parent Perpetrators Overview
 
 Total parents involved: 518K+
 
@@ -30,13 +29,13 @@ Unmarried parents: 17K+
 
 Foster parents: 1474
 
-2️.State-Level Breakdown
+2️⃣ State-Level Breakdown
 
 California, New York, and Texas have the highest number of child abuse perpetrators.
 
 Visual comparisons include bar charts, funnel charts, and KPI tiles for better clarity.
 
-3️.Child Day Care & Legal Guidance Roles
+3️⃣ Child Day Care & Legal Guidance Roles
 
 1,791 cases from child daycare providers
 
@@ -44,13 +43,13 @@ Visual comparisons include bar charts, funnel charts, and KPI tiles for better c
 
 Pie chart visual shows state-wise distribution with percentages
 
-4️.Multiple Relationship Cases
+4️⃣ Multiple Relationship Cases
 
 21K+ perpetrators associated with multiple relationships
 
 Indicates complex household or social structures contributing to risks
 
-Data Preparation Workflow
+🛠 Data Preparation Workflow
 
 Cleaned and transformed using Power Query
 
@@ -60,7 +59,7 @@ Designed KPIs using DAX measures
 
 Built consistently themed visuals for readability (dark theme, blue highlights)
 
-Features of the Dashboard
+🚀 Features of the Dashboard
 
 Fully interactive and filterable
 
